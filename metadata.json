@@ -1,0 +1,5 @@
+{
+  "name": "ID Scanner Pro",
+  "description": "Live camera ID card OCR and field parser powered by Gemini AI.",
+  "requestFramePermissions": ["camera"]
+}
